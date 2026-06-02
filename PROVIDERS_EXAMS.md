@@ -1,6 +1,4 @@
-# Providers & Exams — CertPath Coverage
-
-Panoramica dei provider di certificazione e degli esami più richiesti disponibili su CertPath, organizzati per area tematica.
+# Providers & Exams — CertBase Coverage
 
 ---
 
