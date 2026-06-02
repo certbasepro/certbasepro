@@ -8,6 +8,10 @@
 
 [**▶ Start practising at certbase.pro**](https://certbase.pro)
 
+![Free](https://img.shields.io/badge/price-free-brightgreen)
+![No account required](https://img.shields.io/badge/account-not%20required-blue)
+![Providers](https://img.shields.io/badge/providers-25%2B-orange)
+
 </div>
 
 ---
